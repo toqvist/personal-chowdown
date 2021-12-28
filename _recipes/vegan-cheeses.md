@@ -6,7 +6,6 @@ imagecredit:
 tags: cheesy
 
 components:
-- Sweet & Creamy Tahini Sauce
 - Queso
 - Cashew Cheese
 - Tofu Feta Cheese
