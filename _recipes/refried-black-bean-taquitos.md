@@ -11,9 +11,9 @@ ingredients:
 - 1 yellow onion
 - 2 cloves garlic
 - 1/2 jalapeño
-- 1 tsp smoked paprika
+- 1 tbsp smoked paprika
 - 1/2 tsp cumin
-- 400g black beans
+- 400g cooked black beans
 - 3/4 dl water
 - 1 tsp bullion
 - 1/2 lime
